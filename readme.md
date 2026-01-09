@@ -27,43 +27,84 @@
 
 ## 🚀 About Me
 
+
+
 <table>
-  <tr>
-    <td width="50%" valign="top">
+
+<tr>
+
+<td width="45%" valign="top">
+
+
 
 ```javascript
+
 const ridwan = {
+
     location: "📍 Dhaka, Bangladesh",
+
     education: "BSc in CSE - AIUB",
-    specialization: ["MERN Stack", "Web Dev"],
-    currentlyLearning: ["DSA", "Algorithms"],
-    hobbies: ["Tech Blogs", "Building Projects"]
+
+    specialization: ["MERN Stack", "Web Development"],
+
+    currentlyLearning: ["Data Structures", "Algorithms"],
+
+    hobbies: ["Learning", "Writing Tech Blogs", "Building Projects"]
+
 };
+
+
 
 // My Mission
+
 const mission = () => {
+
     return `Empowering developers through education
+
             while building scalable web solutions`;
+
 };
 
-</td> 
+```
 
-<td width="50%" valign="top">
 
-🎯 What I Do
+
+</td>
+
+<td width="55%" valign="top">
+
+
+
+### 🎯 What I Do
+
+
+
 Combining code, creativity, and community.
+
+
 
 👨‍💻 Dev: Crafting responsive MERN stack applications.
 
+
+
 ✍️ Content: Writing technical blogs and guides for the dev community.
+
+
 
 🧠 Logic: Solving complex problems via Data Structures & Algorithms.
 
+
+
 🚀 Trends: Experimenting with new tech stacks and frameworks.
 
-💬 Connect: Open to collaboration and freelance opportunities.
 
-</td> 
+
+💬 Connect: Open to collaboration and freelance opportunitie
+
+
+
+</td>
+
 </tr>
 
 </table>
