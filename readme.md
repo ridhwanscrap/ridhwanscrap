@@ -29,7 +29,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="45%" valign="top">
 
 ```javascript
 const ridwan = {
@@ -48,7 +48,7 @@ const mission = () => {
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="55%" valign="top">
 
 ### 🎯 What I Do
 
@@ -128,38 +128,28 @@ Combining code, creativity, and community.
 
 <table>
 <tr>
-
-<td width="50%">
-
+<td align="center">
 <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=ridhwanscrap&theme=neon&hide_border=false" alt="GitHub Streak" />
-
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhwanscrap&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
-
+<td align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhwanscrap&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 </td>
 </tr>
 </table>
 
 ### 📈 Contribution Graph
 
-[![Moriam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ridhwanscrap=react-dark&hide_border=true&area=true)](https://github.com/ridhwanscrap)
+[![ridhwanscrap's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ridhwanscrap&theme=neon&hide_border=true&area=true)](https://github.com/ridhwanscrap)
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
-
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=ridnwanscrap&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
-
+<img src="https://github-profile-trophy.vercel.app/?username=ridhwanscrap&theme=neon&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" />
 </div>
-
 ---
 
 ## ✍️ Random Dev Quote
@@ -186,7 +176,7 @@ Combining code, creativity, and community.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridhwanscrap)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ridhwanscrap)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ridhwanscrap)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://instagram.com/ridhwanscrap)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ridhwanscrap)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ridhwasncrap)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:queen.phoenixx23@gmail.com)
 
@@ -206,7 +196,7 @@ Combining code, creativity, and community.
 
 ## 📌 Pinned Highlights
 
-<div align="center">
+<div>
 
 ```diff
 + Web Dev & AI Enthusiast
@@ -223,7 +213,7 @@ Combining code, creativity, and community.
 
 ## 💡 Fun Facts About Me
 
-<div align="center">
+<div>
 
 ```typescript
 interface Developer {
