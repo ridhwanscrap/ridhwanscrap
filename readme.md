@@ -28,30 +28,26 @@
 ## 🚀 About Me
 
 <table>
-<tr>
-<td width="45%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 ```javascript
 const ridwan = {
     location: "📍 Dhaka, Bangladesh",
     education: "BSc in CSE - AIUB",
-    specialization: ["MERN Stack", "Web Development"],
-    currentlyLearning: ["Data Structures", "Algorithms"],
-    hobbies: ["Learning", "Writing Tech Blogs", "Building Projects"]
+    specialization: ["MERN Stack", "Web Dev"],
+    currentlyLearning: ["DSA", "Algorithms"],
+    hobbies: ["Tech Blogs", "Building Projects"]
 };
 
 // My Mission
 const mission = () => {
-    return `Empowering developers through education 
+    return `Empowering developers through education
             while building scalable web solutions`;
 };
-```
+</td> <td width="50%" valign="top">
 
-</td>
-<td width="55%" valign="top">
-
-### 🎯 What I Do
-
+🎯 What I Do
 Combining code, creativity, and community.
 
 👨‍💻 Dev: Crafting responsive MERN stack applications.
@@ -62,12 +58,11 @@ Combining code, creativity, and community.
 
 🚀 Trends: Experimenting with new tech stacks and frameworks.
 
-💬 Connect: Open to collaboration and freelance opportunitie
+💬 Connect: Open to collaboration and freelance opportunities.
 
-</td>
-</tr>
+</td> </tr>
+
 </table>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -148,7 +143,7 @@ Combining code, creativity, and community.
 ---
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ridhwanscrap&theme=neon&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ridhwanscrap&theme=neon&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 ---
 
