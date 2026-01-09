@@ -5,7 +5,7 @@
 ### 💻 Junior Web dev | Student @ AIUB
 
 <p>
-  <a href="https://ridhwanssssssssss.netlify.app/" target="_blank">
+  <a href="https://your-portfolio-link.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ridhwanscrap/" target="_blank">
@@ -45,7 +45,10 @@ const mission = () => {
     return `Empowering developers through education
             while building scalable web solutions`;
 };
-</td> <td width="50%" valign="top">
+
+</td> 
+
+<td width="50%" valign="top">
 
 🎯 What I Do
 Combining code, creativity, and community.
@@ -60,7 +63,8 @@ Combining code, creativity, and community.
 
 💬 Connect: Open to collaboration and freelance opportunities.
 
-</td> </tr>
+</td> 
+</tr>
 
 </table>
 ---
