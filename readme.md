@@ -194,11 +194,9 @@ Combining code, creativity, and community.
 </div>
 ---
 
-##💡 Code Philosophy
+<h2>##💡 Code Philosophy</h2>
 
 <div align="center">
-
-
 <td width="55%" valign="top">
   
 <h3><code>"Talk is cheap. Show me the code.  — Linus Torvalds"</code></h3>
