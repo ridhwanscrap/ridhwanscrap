@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=WEB+Developer;Student+@+AIUB;Lifelong+Learner;AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=WEB+Dev;Student+@+AIUB;Lifelong+Learner;AI+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -194,14 +194,14 @@ Combining code, creativity, and community.
 </div>
 ---
 
-## ✍️ Random Dev Quote
+##💡 Code Philosophy
 
 <div align="center">
 
 
 <td width="55%" valign="top">
-
-```"Talk is cheap. Show me the code." — Linus Torvalds```
+  
+<h3><code>"Talk is cheap. Show me the code.  — Linus Torvalds"</code></h3>
 
 </td>
 
