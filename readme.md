@@ -47,7 +47,7 @@ const ridwan = {
 
     specialization: ["MERN Stack", "Web Development"],
 
-    currentlyLearning: ["Data Structures", "Algorithms"],
+    currentlyLearning: ["C#"],
 
     hobbies: ["Learning", "Writing Tech Blogs", "Building Projects"]
 
